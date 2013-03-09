@@ -2,14 +2,24 @@
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
-\address{Red Hat Czech, s.r.o.\\Purkyňova 99/71\\612 45 Brno}
-\signature{Underground o.s.\\\Čápkova 48\\602 00 Brno}}
+\address{
+	Red Hat Czech, s.r.o.\\
+	Purkyňova 99/71\\
+	612 45 Brno
+}
+\signature{
+	Underground, o.s.\\
+	Čápkova 48\\
+	602 00 Brno\\
+	\quad\\
+	IČ: 22859802
+}
 \begin{document}
 
 \begin{letter}{}
 \opening{}
 
-Občanské sdružení Underground o.s. tímto přijímá následující předméty jako dar:
+Občanské sdružení Underground, o.s. tímto přijímá následující předměty jako dar:
 
 Rack 9000\\
 Kebab (2ks)
