@@ -1,33 +1,51 @@
-\documentclass{letter}
+%
+% licensed under CC0
+%
+% vim: spell:spelllang=cs
+%
+\documentclass[12pt]{article}
+\usepackage{a4wide}
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage{hyperref}
-\address{
-	Red Hat Czech, s.r.o.\\
-	Purkyňova 99/71\\
-	612 45 Brno
-}
-\signature{
-	Underground, o.s.\\
-	Čápkova 48\\
-	602 00 Brno\\
-	\quad\\
-	IČ: 22859802
-}
+\pagestyle{empty}
+
 \begin{document}
 
-\begin{letter}{}
-\opening{}
+\begin{center}
+{\Large \bf {Potvrzení o daru}}
+\end{center}
 
-Občanské sdružení Underground, o.s. tímto přijímá následující předměty jako dar:
+\medskip
 
-Rack 9000\\
-Kebab (2ks)
+\noindent
+\emph{Obdarovaný}:\\
+Underground, o.s.\\
+Čápkova 48\\
+602 00 Brno\\[2mm]
+IČ: 22859802
 
-\closing{}
+\bigskip
+\bigskip
 
-%\encl{Copyright permission form}
+\noindent
+Potvrzujeme tímto příjem věcného daru od \emph{Red Hat Czech, s.r.o.}, se
+sídlem Purkyňova~99/71, 612~45 Brno, jenž je tvořen následujícími předměty:
 
-\end{letter}
+\begin{itemize}
+	\item Rack 9000
+	\item Kebab (2ks)
+\end{itemize}
 
+ve prospěch \emph{Underground, o.s.} (registrované 6.8.2010 u Ministerstva
+vnitra ČR). Potvrzení se vydává v souladu se zákonem číslo 586/92 Sb. a
+pozdějších úprav. Slouží k odpočtu od základu daně dárce. Přijatý dar bude
+použit na vylepšení informační infrastruktury sdružení.
+
+\bigskip
+\bigskip
+
+\noindent
+V Brně dne \today
+\hfill
+razítko a podpis předsedy o.s.
 \end{document}
